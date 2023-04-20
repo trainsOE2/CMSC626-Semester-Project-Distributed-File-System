@@ -1,0 +1,5 @@
+2023-04-18 15:39:49.882832 | Command : create | datafile.txt| Username: c
+2023-04-18 15:40:27.290644 | Command : write | datafile.txt| Username: c
+2023-04-18 15:40:42.760641 | Command : read | datafile.txt| Username: c
+2023-04-18 15:41:58.390460 | Command : rename | datafile.txt| Username: c
+2023-04-18 15:42:21.292980 | Command : read | newdatafile_1.txt| Username: c
